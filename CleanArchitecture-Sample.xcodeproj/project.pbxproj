@@ -68,6 +68,8 @@
 		F41F5FF527D1216D009172AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F41F5FF927D12227009172AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F41F5FFA27D12308009172AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F41F5FFD27D1274E009172AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F41F5FFF27D1277F009172AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FAD409A4EB6B984F522EE6DB /* Pods_CleanArchitecture_SampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CleanArchitecture_SampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -154,6 +156,8 @@
 				F41F5FED27D12037009172AA /* Interactor */,
 				F41F5FF427D1214F009172AA /* Manager */,
 				F41F5FF627D121BE009172AA /* Presentation */,
+				F41F5FFC27D1272C009172AA /* Resources */,
+				F41F5FFB27D1271A009172AA /* Utils */,
 				F41F5FBA27D10F85009172AA /* ContentView.swift */,
 				F41F5FBC27D10F87009172AA /* Assets.xcassets */,
 				F41F5FC327D10F87009172AA /* CleanArchitecture_Sample.xcdatamodeld */,
@@ -277,6 +281,22 @@
 				F41F5FF927D12227009172AA /* README.md */,
 			);
 			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		F41F5FFB27D1271A009172AA /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				F41F5FFF27D1277F009172AA /* README.md */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		F41F5FFC27D1272C009172AA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F41F5FFD27D1274E009172AA /* README.md */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
