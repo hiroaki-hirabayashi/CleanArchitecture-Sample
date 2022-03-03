@@ -11,7 +11,7 @@
   - [Repositories](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Interactor/Repositories/README.md)
   - [Model](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Interactor/Model/README.md)
 - [Domain]
-  - [DataStore]
+  - [DataStore](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Domain/DataStore/README.md)
   - [Entities]
 
 ## プロジェクト全体で利用
