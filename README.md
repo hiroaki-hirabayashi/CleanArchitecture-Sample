@@ -15,5 +15,5 @@
   - [Entities](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Domain/Entities/README.md)
 
 ## プロジェクト全体で利用
-- [Utils]
+- [Utils](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Resources/README.md)
 - [Manager]
