@@ -7,7 +7,7 @@
   - [Views](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Presentation/Views/README.md)
   - [ViewModels](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Presentation/ViewModels/README.md)
 - [Interactor]
-  - [UseCases]
+  - [UseCases](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Interactor/UseCases/README.md)
   - [Repositories]
   - [Model]
 - [Domain]
