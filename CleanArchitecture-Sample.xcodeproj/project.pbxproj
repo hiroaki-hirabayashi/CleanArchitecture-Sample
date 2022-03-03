@@ -191,6 +191,7 @@
 			isa = PBXGroup;
 			children = (
 				F41F5FE927D11F05009172AA /* DataStore */,
+				F41F5FEB27D11F7E009172AA /* Entities */,
 			);
 			path = Domain;
 			sourceTree = "<group>";
@@ -199,7 +200,6 @@
 			isa = PBXGroup;
 			children = (
 				F41F5FEA27D11F29009172AA /* README.md */,
-				F41F5FEB27D11F7E009172AA /* Entities */,
 			);
 			path = DataStore;
 			sourceTree = "<group>";
