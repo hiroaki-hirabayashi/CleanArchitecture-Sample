@@ -12,7 +12,7 @@
   - [Model](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Interactor/Model/README.md)
 - [Domain]
   - [DataStore](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Domain/DataStore/README.md)
-  - [Entities]
+  - [Entities](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Domain/Entities/README.md)
 
 ## プロジェクト全体で利用
 - [Utils]
