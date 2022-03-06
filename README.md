@@ -17,3 +17,4 @@
 ## プロジェクト全体で利用
 - [Utils](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Resources/README.md)
 - [Manager](https://github.com/hiroaki-hirabayashi/CleanArchitecture-Sample/blob/main/CleanArchitecture-Sample/Manager/README.md)
+
